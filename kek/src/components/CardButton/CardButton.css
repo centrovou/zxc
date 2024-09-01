@@ -1,0 +1,15 @@
+.cardButton {
+ font-family: "Montserrat", system-ui;
+  border-radius: 3px;
+  background: rgba(255, 255, 255, 0.03);
+  padding: 20px;
+  width: 100%;
+  border: none;
+  cursor: pointer;
+  text-align: start;
+  display: block;
+}
+
+.cardButton:hover {
+ background: rgba(255, 255, 255, 0.10);
+}

@@ -1,0 +1,30 @@
+
+
+.JournalTitle {
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 156%;
+  color: #fff;
+}
+
+.JournalBody {
+  display: flex;
+  gap: 10px;
+}
+
+.JournalDate {
+  color: rgba(255, 255, 255, 0.4);
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.JournalText {
+  color: rgba(255, 255, 255, 0.6);
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  overflow: hidden;
+}
